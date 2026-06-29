@@ -1,6 +1,6 @@
-# Freedom to Innovate: Building a Production Email Archive Solution in a Single Session with Kiro
+# Freedom to Innovate: Building a Email Archive Solution in with Kiro
 
-*How an AI-native development environment turned a complex enterprise requirement into a deployed, serverless solution — from spec to production in hours, not months.*
+*How an AI-native development environment turned a complex enterprise requirement into a deployed, serverless solution — from spec to deployment in hours, not months.*
 
 ---
 
