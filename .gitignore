@@ -1,0 +1,32 @@
+*.js
+!jest.config.js
+!frontend/**
+*.d.ts
+!frontend/**
+node_modules
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Frontend build output (rebuild locally)
+frontend/dist/
+frontend/node_modules/
+
+# Test coverage
+coverage/
